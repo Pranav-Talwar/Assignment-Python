@@ -1,4 +1,4 @@
-# Employee Management System - Full Stack
+# Employee Management System - Python Assignment
 
 A complete employee management system built with FastAPI, React, and SQLAlchemy.
 
