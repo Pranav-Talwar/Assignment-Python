@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee Management System - Full Stack
 
 A complete employee management system built with FastAPI, React, and SQLAlchemy.
@@ -71,3 +72,6 @@ DATABASE_URL=postgresql://user:password@host/dbname
 ## License
 
 MIT
+=======
+# Assignment-Python
+>>>>>>> 1996dc51a93f8c05b9df2db9998145287b469ad2
