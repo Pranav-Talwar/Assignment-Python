@@ -62,8 +62,7 @@ Frontend runs at `http://localhost:5173`
 
 By default uses SQLite (`employees.db`).
 
-To switch to PostgreSQL/NeonDB, update `backend/.env`:
-
-```env
-DATABASE_URL=postgresql://user:password@host/dbname
+```bash
+DATABASE_URL=sqlite:///./employees.db
 ```
+
